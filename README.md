@@ -1,5 +1,3 @@
- Option 2: Formatted with Key Features (Recommended)
-
 Customer Churn Prediction using Machine Learning
 
 This project predicts whether a customer will churn (leave a service) based on their account and demographic information. The entire pipeline, from data cleaning and model training to deploying an interactive web application, is covered.
